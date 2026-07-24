@@ -54,3 +54,6 @@ bin/
 venv
 .idea
 _pycache_
+
+# OneByJorah portfolio tooling
+.venv-screenshot/

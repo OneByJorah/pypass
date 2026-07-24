@@ -1,4 +1,21 @@
-# PyPass - Active Directory Password Reset Service
+<div align="center">
+
+![pypass banner](docs/assets/banner.svg)
+
+# pypass
+
+Self-service password change utility for Active Directory
+
+![License](https://img.shields.io/badge/license-MIT-brightgreen)
+![Language](https://img.shields.io/badge/language-CSS-blue)
+![Fork](https://img.shields.io/badge/status-fork-orange)
+</div>
+
+---
+
+<p align="center">
+  <img src="docs/assets/screenshot.png" alt="pypass preview" width="90%">
+</p>
 
 ![Python](https://img.shields.io/badge/python-3.12-blue)
 ![Flask](https://img.shields.io/badge/flask-3.x-black)
@@ -241,3 +258,19 @@ them as environment variables with the same names shown in `.env.example`.
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+## 🤝 Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md). All contributions follow the [Code of Conduct](CODE_OF_CONDUCT.md).
+
+## 🔒 Security
+
+Found a vulnerability? Please follow our [Security Policy](SECURITY.md) and report privately to `security@jorahone.com`.
+
+## 📄 License
+
+[MIT License](LICENSE) © Jhonattan L. Jimenez (OneByJorah)
+
+---
+
+<p align="center">Built with 🌴 by <a href="https://github.com/OneByJorah">OneByJorah</a> · <a href="https://jorahone.com">jorahone.com</a></p>
